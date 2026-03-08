@@ -27,7 +27,7 @@ const apps = [
     url: "https://mspec.learnwithcole.com",
     icon: "scale",
     color: "#bdff7c"
-  }
+  },
   {
     title: "Chromatographic Methods of Separation",
     description: "Explore Paper, TLC, Column and GLC using the Interactive Simulator",
