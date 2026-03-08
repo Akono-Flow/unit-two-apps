@@ -19,7 +19,7 @@ const apps = [
     description: "Explore the vibrational modes of molecules and their interaction with IR",
     url: "https://infrared.learnwithcole.com/",
     icon: "waypoints",
-    color: "#0d6efd"
+    color: "#a6b592"
   }
   // {
   //   title: "Titration Curves",
