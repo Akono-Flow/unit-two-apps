@@ -21,13 +21,13 @@ const apps = [
     icon: "waypoints",
     color: "#a6b592"
   }
-  // {
-  //   title: "Titration Curves",
-  //   description: "Explore types of titration curve with interactive simulator",
-  //   url: "https://tcurves.learnwithcole.com/",
-  //   icon: "flask-round",
-  //   color: "#05cdfe"
-  // },
+  {
+    title: "Mass Spectrophotometry",
+    description: "Understand the concepts that help to elucidate chemical structures through fragmentation.",
+    url: "https://mspec.learnwithcole.com",
+    icon: "scale",
+    color: "#bdff7c"
+  },
   // {
   //   title: "Simple Harmonic Oscillator",
   //   description: "Simulate SHM Motion with this interactive simulator",
