@@ -28,13 +28,13 @@ const apps = [
     icon: "scale",
     color: "#bdff7c"
   }
-  // {
-  //   title: "Simple Harmonic Oscillator",
-  //   description: "Simulate SHM Motion with this interactive simulator",
-  //   url: "https://oscillator.learnwithcole.com/",
-  //   icon: "wand-sparkles",
-  //   color: "#06cdaf"
-  // },
+  {
+    title: "Chromatographic Methods of Separation",
+    description: "Explore Paper, TLC, Column and GLC using the Interactive Simulator",
+    url: "https://chromatography.learnwithcole.com",
+    icon: "leaf",
+    color: "#31c79f"
+  }
   // {
   //   title: "SCQ Visual Capture",
   //   description: "Captures visuals from TVJ matches",
