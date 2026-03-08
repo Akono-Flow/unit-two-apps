@@ -14,13 +14,13 @@ const apps = [
     icon: "sun",
     color: "#e83e8c"
   },
-  // {
-  //   title: "Edu-Quadratics",
-  //   description: "Generate quadratic expressions for factorization",
-  //   url: "https://akono-flow.github.io/quadratics-gen/",
-  //   icon: "gamepad",
-  //   color: "#0d6efd"
-  // },
+  {
+    title: "Infrared Spectroscopy",
+    description: "Explore the vibrational modes of molecules and their interaction with IR",
+    url: "https://infrared.learnwithcole.com/",
+    icon: "waypoints",
+    color: "#0d6efd"
+  }
   // {
   //   title: "Titration Curves",
   //   description: "Explore types of titration curve with interactive simulator",
