@@ -7,13 +7,13 @@ const apps = [
     icon: "radiation",
     color: "#0d6efd"
   },
-  // {
-  //   title: "Edu-Jeopardy",
-  //   description: "Explore Ideas and topics with Jeopardy",
-  //   url: "https://akono-flow.github.io/edu-jeopardy/",
-  //   icon: "gamepad-2",
-  //   color: "#e83e8c"
-  // },
+  {
+    title: "UV-VIS Spectroscopy",
+    description: "Explore Beer-Lambert's Law and the concepts behind UV-VIS Spectroscopy",
+    url: "https://uv-vis.learnwithcole.com/",
+    icon: "sun",
+    color: "#e83e8c"
+  },
   // {
   //   title: "Edu-Quadratics",
   //   description: "Generate quadratic expressions for factorization",
