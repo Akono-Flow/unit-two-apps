@@ -34,14 +34,14 @@ const apps = [
     url: "https://chromatography.learnwithcole.com",
     icon: "leaf",
     color: "#31c79f"
-  }
-  // {
-  //   title: "SCQ Visual Capture",
-  //   description: "Captures visuals from TVJ matches",
-  //   url: "https://scqviscap.learnwithcole.com/",
-  //   icon: "video",
-  //   color: "#06cdaf"
-  // },
+  },
+  {
+    title: "Phase Separations",
+    description: "Explore the Principles behind Distillation and Raoult's Law",
+    url: "https://phase-separations.learnwithcole.com/",
+    icon: "test-tubes",
+    color: "#617f53"
+  },
   // {
   //   title: "Radioactivity Simulator",
   //   description: "Explore Band of Stability with Simulation",
