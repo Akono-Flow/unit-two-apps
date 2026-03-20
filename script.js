@@ -42,13 +42,13 @@ const apps = [
     icon: "test-tubes",
     color: "#617f53"
   },
-  // {
-  //   title: "Radioactivity Simulator",
-  //   description: "Explore Band of Stability with Simulation",
-  //   url: "https://radioactive.learnwithcole.com/",
-  //   icon: "radiation",
-  //   color: "#e83e8c"
-  // },
+  {
+    title: "Module 1 Notes and Paper 1 Questions",
+    description: "Interact with Module 1 Content and Questions",
+    url: "https://mcqu2.learnwithcole.com/",
+    icon: "gauge",
+    color: "#6841a3"
+  },
   // {
   //   title: "Quiz Zip Merger",
   //   description: "Combine multiple zip folders into one from screenshot workflow",
